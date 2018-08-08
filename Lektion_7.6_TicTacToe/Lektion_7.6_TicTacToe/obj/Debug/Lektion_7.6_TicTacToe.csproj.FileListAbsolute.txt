@@ -1,0 +1,10 @@
+C:\Users\agonz\Desktop\STUDIENOBJEKTE\Lektion_7.6_TicTacToe\Lektion_7.6_TicTacToe\bin\Debug\Lektion_7.6_TicTacToe.exe.config
+C:\Users\agonz\Desktop\STUDIENOBJEKTE\Lektion_7.6_TicTacToe\Lektion_7.6_TicTacToe\bin\Debug\Lektion_7.6_TicTacToe.exe
+C:\Users\agonz\Desktop\STUDIENOBJEKTE\Lektion_7.6_TicTacToe\Lektion_7.6_TicTacToe\bin\Debug\Lektion_7.6_TicTacToe.pdb
+C:\Users\agonz\Desktop\STUDIENOBJEKTE\Lektion_7.6_TicTacToe\Lektion_7.6_TicTacToe\obj\Debug\Lektion_7.6_TicTacToe.csprojAssemblyReference.cache
+C:\Users\agonz\Desktop\STUDIENOBJEKTE\Lektion_7.6_TicTacToe\Lektion_7.6_TicTacToe\obj\Debug\Lektion_7._6_TicTacToe.Form1.resources
+C:\Users\agonz\Desktop\STUDIENOBJEKTE\Lektion_7.6_TicTacToe\Lektion_7.6_TicTacToe\obj\Debug\Lektion_7._6_TicTacToe.Properties.Resources.resources
+C:\Users\agonz\Desktop\STUDIENOBJEKTE\Lektion_7.6_TicTacToe\Lektion_7.6_TicTacToe\obj\Debug\Lektion_7.6_TicTacToe.csproj.GenerateResource.cache
+C:\Users\agonz\Desktop\STUDIENOBJEKTE\Lektion_7.6_TicTacToe\Lektion_7.6_TicTacToe\obj\Debug\Lektion_7.6_TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\agonz\Desktop\STUDIENOBJEKTE\Lektion_7.6_TicTacToe\Lektion_7.6_TicTacToe\obj\Debug\Lektion_7.6_TicTacToe.exe
+C:\Users\agonz\Desktop\STUDIENOBJEKTE\Lektion_7.6_TicTacToe\Lektion_7.6_TicTacToe\obj\Debug\Lektion_7.6_TicTacToe.pdb
